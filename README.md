@@ -4,6 +4,11 @@
 
 This repository contains proprietary documentation from my time working with **iCliniq**, a health-tech startup headquartered in the US. iCliniq initially focused on being a second opinion/telemedicine platform but soon recognized the potential to evolve into a **Health Decisions Platform**, marking the point at which I joined the company. 
 
+<!-- Resize image to 75% -->
+<img src="iCliniq-Enagage.jpg" alt="Logo Title Text 1" width="100%" />
+
+
+
 During my time with iCliniq, I contributed to key projects, particularly around **Machine Learning** and **AI integration** into existing workflows. This document highlights research, implementation strategies, and the technical specifics behind the **AI systems** I helped build, including the **ICD-11 Classifier**, **Specialty Classifier**, and **Smart Doctor**, among others.
 
 ## Why This Documentation is Here
